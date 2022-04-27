@@ -6,4 +6,7 @@
 <a href="https://github.com/AtesliSerap3" target"blank_"><img src="https://camo.githubusercontent.com/9f2ea2ebee8ce969b6756bd688eeb260371ebb97d594479dacb4b7f6108b68e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622532302d3139313731372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"></a>
 </p>
 
+## Bildiğim diller / Languages i know
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
