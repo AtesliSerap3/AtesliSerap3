@@ -1,4 +1,4 @@
-<h2 align="center">AtesliSerap</h2>
+<h2 align="center">Arda</h2>
 
 <h3 align="left">Kişisel hesaplarım / Own accounts</h3>
 <p align="left">
